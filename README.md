@@ -1,6 +1,11 @@
 # PhxAdminLte
 
-**TODO: Add description**
+## How to implement admin-lte on a Phoenix app
+
+TODO: make this diff a step-by-step 👇
+
+https://github.com/GestorMax/controlador/compare/94a69cf...adminlte
+
 
 ## Installation
 
